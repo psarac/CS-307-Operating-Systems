@@ -1,0 +1,1 @@
+man ls | grep -A 1 -e "-R" > output.txt
